@@ -4,7 +4,7 @@ We don't own your code, but we will deploy your code on our website.
 
 When you proceed with the registration step, you accept that we will use your code to deploy on our web server.
 
-Ưe will confirm again when you create issue_0.
+We will confirm again when you create issue_0.
 
 ## Register to join my repo check
 - Create new branch: `yourusername/issue_0`
