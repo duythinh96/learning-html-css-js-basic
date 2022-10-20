@@ -11,11 +11,6 @@ We will confirm again when you create issue_0.
 https://github.com/nogaun/learning-html-css-js-basic/wiki
 
 
-## Auto deploy your code to website
-We will deploy your code
-Go this link to check: https://learning-html-css-js.herokuapp.com/
-
-
 ## My Team
 @github/ndthinhsgt Reviewer
 
